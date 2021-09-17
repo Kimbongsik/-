@@ -8,7 +8,7 @@ __+ 아두이노를 이용한 현관 출입자 감시 장치__
 ### 라이브러리 수정 파일: SD.h , SD.cpp
 
 * 실행 방법
-1. 라이브러리 다운로드
+1. ArduCam & ESP8266 라이브러리 다운로드
 2. SD.h , SD.cpp 파일 교체
 3. MyCCTV.ino 에서 공유기 SSID와 PASSWORD를 입력
 
